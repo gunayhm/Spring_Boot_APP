@@ -11,4 +11,5 @@ public class MessageReceiver {
     public void receive(UserDto userDto) {
         System.out.println(" [x] Received '" + userDto + "'");
     }
+
 }
