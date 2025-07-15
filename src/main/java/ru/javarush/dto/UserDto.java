@@ -13,5 +13,6 @@ public class UserDto implements Serializable {
 
     private int age;
     private String name;
+    private String fullName;
 
 }
